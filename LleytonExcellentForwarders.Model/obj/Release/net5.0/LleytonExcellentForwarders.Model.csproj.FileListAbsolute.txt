@@ -1,0 +1,12 @@
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/bin/Release/net5.0/LleytonExcellentForwarders.Model.deps.json
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/bin/Release/net5.0/LleytonExcellentForwarders.Model.dll
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/bin/Release/net5.0/ref/LleytonExcellentForwarders.Model.dll
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/bin/Release/net5.0/LleytonExcellentForwarders.Model.pdb
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.AssemblyInfoInputs.cache
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.AssemblyInfo.cs
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.csproj.CoreCompileInputs.cache
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.dll
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/ref/LleytonExcellentForwarders.Model.dll
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.pdb
+/Users/raffyipac/Lleyton Excellent Forwarders/LEFC - API/LleytonExcellentForwarders.Model/obj/Release/net5.0/LleytonExcellentForwarders.Model.csproj.AssemblyReference.cache
